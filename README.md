@@ -1,1 +1,1 @@
-# for_Python
+# for_Python - только ПИТОН!!!
